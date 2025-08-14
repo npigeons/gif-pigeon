@@ -1,0 +1,8 @@
+node_modules
+replit.nix
+.replit
+.cache
+package-lock.json
+.env
+.env_test
+.env_prod
