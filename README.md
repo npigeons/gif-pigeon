@@ -1,3 +1,5 @@
+A mirror of a private GitLab repository.
+
 # How to run the code
 
 You need to have a Discord bot account (https://discord.com/developers/docs/getting-started) and a Discord server to test it on.
@@ -13,6 +15,8 @@ guildID = "[guild ID of yourn Discord server]"
 ```
 
 # How to contribute
+
+Write to `npigeons` to gain access to the main GitLab repository.
 
 We work in Visual Studio Code, with extension [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode).
 
